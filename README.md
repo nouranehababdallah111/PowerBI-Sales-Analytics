@@ -26,7 +26,7 @@ The dashboards provide crucial insights that can guide business strategy:
 * **Revenue Optimization**: Monitoring trends in Total Due and Sub_total can help optimize pricing strategies and reduce revenue fluctuations.
 
 ### Sales Overview Dashboard
-![Sales Overview Dashboard](overview.png)
+![Sales Overview Dashboard](overview)
 
 ### Additional Visualizations
 ![Additional Visualizations](impression.png)
